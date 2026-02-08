@@ -6,6 +6,7 @@ training/*.pth
 training/*.pt
 *.pth
 *.pt
+*.tar
 
 # ==============================
 # PYTHON
