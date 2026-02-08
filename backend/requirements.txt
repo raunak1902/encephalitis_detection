@@ -1,0 +1,25 @@
+# Flask Backend Requirements for Encephalitis Detection API
+
+# Web Framework
+flask
+flask-cors
+
+# Deep Learning
+torch
+torchvision
+
+# Image Processing
+Pillow
+
+# Data Processing
+numpy
+pandas
+
+# Machine Learning (for future enhancements)
+scikit-learn
+
+# Utilities
+python-multipart
+
+# Optional: For better production deployment
+gunicorn
